@@ -1,6 +1,6 @@
 # scalable_flutter_app
 
-A new Flutter project.
+A scalable flutter app with clean architecture and Firebase functionality(Authentication and realtime database)
 
 ## Getting Started
 
